@@ -1,0 +1,6 @@
+D:\PUCE\Tercero\Estructuras II\AlgoritmoOrdenamiento\AlgoritmoOrdenamiento\bin\Debug\AlgoritmoOrdenamiento.exe.config
+D:\PUCE\Tercero\Estructuras II\AlgoritmoOrdenamiento\AlgoritmoOrdenamiento\bin\Debug\AlgoritmoOrdenamiento.exe
+D:\PUCE\Tercero\Estructuras II\AlgoritmoOrdenamiento\AlgoritmoOrdenamiento\bin\Debug\AlgoritmoOrdenamiento.pdb
+D:\PUCE\Tercero\Estructuras II\AlgoritmoOrdenamiento\AlgoritmoOrdenamiento\obj\Debug\AlgoritmoOrdenamiento.csprojResolveAssemblyReference.cache
+D:\PUCE\Tercero\Estructuras II\AlgoritmoOrdenamiento\AlgoritmoOrdenamiento\obj\Debug\AlgoritmoOrdenamiento.exe
+D:\PUCE\Tercero\Estructuras II\AlgoritmoOrdenamiento\AlgoritmoOrdenamiento\obj\Debug\AlgoritmoOrdenamiento.pdb
